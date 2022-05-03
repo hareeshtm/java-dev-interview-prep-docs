@@ -1,5 +1,69 @@
+Difference between anonymous inner Class and lambda exp
+Concat and append difference
+How to access the  default method which is defined in the interface and same is implemented in the subclass.?
+HashMap vs Concurrent HashMap
+Apart from Map is there any concurrent collection?
+Difference between hql and sql
+Exception in java
+Checked and unchecked exceptions
+Exceptions as pipe
+Collection vs Collections
+Stirling literal vs new
+Sql constraints
+IOC container and dependency injection example
+Can we pass object as key in hashmap
+Throws vs throw
+Treeset internal working
+Failfast and failsafe iterator
+Contract bwn Hashcode and equals method
+How u will do debugging testing and code deployment
+Serialisation in java
+Memmory management in java
+Synchorization in java
+Executor service
+Callable vs runnable
+@primary annotation
+Interceptor in spring
+Path variable - mandatory request param - non mandatory
+Different types of auto wiring in spring
+Types of class loaders in java
+Types of garbage collectors in java
+String and wrapper classes both accept null.
+Java 8 memmroy management
+Difference bwn equals and compare method
+Sequencing in sql
+
+https://vikramguptavit.medium.com/list/java-string-interview-questions-364ed966bc3b
+
+https://vikramguptavit.medium.com/list/java-oops-interview-questions-49d0f24c6041
+
+https://medium.com/javarevisited/treemap-in-java-collection-framework-81b6a9795ace
+
+
+https://javatechonline-com.cdn.ampproject.org/c/s/javatechonline.com/entity-relationship-in-jpa-hibernate-orm/?amp=1
+
+https://javatechonline-com.cdn.ampproject.org/c/s/javatechonline.com/how-to-implement-spring-cloud-gateway-in-microservices/?amp=1
+
+
+
+https://www.java67.com/2019/04/top-10-spring-mvc-and-rest-annotations-examples-java.html?m=1
+
+
 https://www.interviewbit.com/spring-boot-interview-questions/amp/
 
 https://www.interviewbit.com/multithreading-interview-questions/amp/
 
+
 https://www.java67.com/2019/04/top-10-spring-mvc-and-rest-annotations-examples-java.html?m=1
+
+
+
+https://hashnode.com/post/refresh-applicationproperties-in-spring-boot-without-restarting-tomcat-server-cl015nl7m0ae9l0nv3yfi10y3
+
+
+https://javatechonline-com.cdn.ampproject.org/c/s/javatechonline.com/how-to-deploy-spring-boot-application-in-docker/?amp=1
+
+
+https://fullstackdeveloper.guru/2022/04/19/how-to-talk-to-services-in-a-service-registry-in-spring-boot/amp/
+
+https://medium.com/javarevisited/internal-working-of-hashset-in-java-e8b171fa3d41
